@@ -2,7 +2,6 @@
 JSONx module
 """
 
-from builtins import str
 import io
 from xml.sax.saxutils import XMLGenerator
 
